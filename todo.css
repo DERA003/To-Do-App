@@ -21,7 +21,8 @@
 }
 
 .to-do h2{
-    
+    display: flex;
+    align-items: ;
 }
 
 .to-do img{
