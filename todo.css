@@ -49,3 +49,7 @@
     border: none;
     padding: 10px;
 }
+
+.row button{
+    border: none;
+}
