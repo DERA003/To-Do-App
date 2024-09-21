@@ -43,5 +43,6 @@
 }
 
 .row input{
+    flex: 1;
     outline: none;
 }
