@@ -24,6 +24,7 @@
     display: flex;
     align-items: center;
     color: #002765;
+    margin-bottom: 20px;
 }
 
 .to-do img{
