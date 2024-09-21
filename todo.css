@@ -7,10 +7,10 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background-color: lavender;
+    background-color: rgb(1, 1, 66);
     padding: 10px;
 }
 
 .to-do{
-    
+    width: 100%;
 }
