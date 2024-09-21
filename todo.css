@@ -41,3 +41,7 @@
     margin-bottom: 10px;
     background-color: lavender;
 }
+
+.row input{
+    width: 30%;
+}
