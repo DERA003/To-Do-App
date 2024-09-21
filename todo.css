@@ -45,4 +45,5 @@
 .row input{
     flex: 1;
     outline: none;
+    background: transparent;
 }
