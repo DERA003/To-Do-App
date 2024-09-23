@@ -91,3 +91,20 @@ ul li.checked{
 ul li.checked::before{
     background-image: url(https://th.bing.com/th/id/OIP.cQslRXPe53LkjHZpXFKJgwHaHa?rs=1&pid=ImgDetMain);
 }
+
+ul li span{
+    right: 0;
+    text-align: center;
+    top: 5px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 50%;
+    color: #555;
+    line-height: 40px;
+}
+
+ul li span:hover{
+    
+}
