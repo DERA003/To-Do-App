@@ -21,12 +21,15 @@
 }
 
 .to-do h1{
-    font-size: 20px;
+    font-size: 40px;
     font-weight: 600;
-    color: chocolate;
+    color: brown;
+    align-items: center;
+    margin-bottom: 10px;
 }
 
 .to-do h1 img{
     width: 10%;
-    height: 1%;
+    /* height:30px; */
+    margin-left: 10px;
 }
