@@ -82,3 +82,7 @@ ul li::before{
     content: '';
     background-image: url(https://i.pinimg.com/originals/11/a9/43/11a943fdda74b4e8f84b1888a7ac5213.png)
 }
+
+ul li .checked{
+    
+}
