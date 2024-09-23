@@ -16,6 +16,8 @@
      max-width: 530px;
      background-color: beige;
      margin: 100px auto 20px;
+     padding: 40px 30px 70px;
+     border-radius: 10px;
 }
 
 .to-do h1{
@@ -25,6 +27,6 @@
 }
 
 .to-do h1 img{
-    width: 70px;
-    height: 80px;
+    width: 10%;
+    height: 1%;
 }
