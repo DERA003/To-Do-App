@@ -15,9 +15,9 @@ function addTask() {
     inputBox.value = ""
 }
 
-listContainer.addEventListener("click", e =>{
+listContainer.addEventListener("click", function(e){
     if(e.target.tagName = "LI"){
-        
+
     }
 })
 addTask()
