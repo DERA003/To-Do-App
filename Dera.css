@@ -43,7 +43,7 @@
 }
 
 input{
-    padding: 15px;
+    padding: 10px;
     border: none;
     background-color: transparent;
     outline: none;
@@ -51,10 +51,12 @@ input{
 }
 
 button{
-    padding: 13px 50px;
+    padding: 13px 40px;
     border: none;
     outline: none;
     background-color: rgb(3, 3, 120);
     color: white;
     border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
 }
