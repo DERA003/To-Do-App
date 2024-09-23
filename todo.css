@@ -80,4 +80,5 @@ ul li ::before{
     width: 28px;
     border-radius: 50%;
     content: '';
+    background-image: url("https://i.pinimg.com/236x/61/3b/25/613b2598f7aab3cee1d59e3775a76bcd.jpg?nii=t");
 }
