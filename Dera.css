@@ -79,5 +79,6 @@ ul li::before{
     position: absolute;
     background-size: cover;
     background-position: center;
+    content: '';
 
 }
