@@ -9,8 +9,17 @@
     width: 100%;
 }
 
+.width{
+
+}
+
 .to-do h1{
     font-size: 20px;
     font-weight: 600;
     color: chocolate;
+}
+
+.to-do h1 img{
+    width: 70px;
+    height: 80px;
 }
