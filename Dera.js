@@ -13,6 +13,7 @@ function addTask() {
     span.innerHTML = "X"
     li.appendChild(span)
    }
+   inputBox.value = ""
 }
 
 addTask()
