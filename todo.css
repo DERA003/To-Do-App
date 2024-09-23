@@ -88,4 +88,6 @@ ul li.checked{
     text-decoration: line-through;
 }
 
-ul li::before
+ul li.checked::before{
+    background-image: url();
+}
