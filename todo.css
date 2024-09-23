@@ -84,5 +84,5 @@ ul li::before{
 }
 
 ul li .checked{
-    
+    color: #555;
 }
