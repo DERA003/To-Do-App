@@ -70,15 +70,15 @@ ul li{
     position: relative;
 }
 
-ul li ::before{
+ul li::before{
     position: absolute;
     background-size: cover;
     background-position: center;
-    top: 12px;
+    /* top: 10px; */
     left: 8px;
-    height: 28px;
-    width: 28px;
+    height: 20px;
+    width: 20px;
     border-radius: 50%;
     content: '';
-    background-image: url(https://i.pinimg.com/236x/61/3b/25/613b2598f7aab3cee1d59e3775a76bcd.jpg?nii=t);
+    background-image: url(https://i.pinimg.com/originals/11/a9/43/11a943fdda74b4e8f84b1888a7ac5213.png)
 }
