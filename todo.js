@@ -23,10 +23,15 @@ listContainer.addEventListener("click", function(e){
     }
     else if(e.target.tagName === "SPAN"){
         e.target.parentElement.remove()
+        saveData()
     }
 },false)
 addTask()
 
 function saveData() {
     localStorage.setItem("data",listContainer.innerHTML)
+}
+
+function displayData() {
+    
 }
