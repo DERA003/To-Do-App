@@ -36,4 +36,7 @@
 .input{
     display: flex;
     align-items: center;
+    border-radius: 30px;
+    padding-left: 20px;
+    margin-bottom: 10px;
 }
