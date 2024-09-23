@@ -72,6 +72,12 @@ ul li{
 
 ul li::before{
     background-image: url(https://i.pinimg.com/736x/ff/e1/fb/ffe1fbee16ca1a4c6c6ad64abd692d18--geometry-laser.jpg);
-    
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    left: 8px;
+    position: absolute;
+    background-size: cover;
+    background-position: center;
 
 }
