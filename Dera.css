@@ -67,4 +67,11 @@ ul li{
     cursor: pointer;
     position: relative;
     user-select: none;
+    padding: 15px 8px 15px 30px;
+}
+
+ul li::before{
+    background-image: url(https://i.pinimg.com/736x/ff/e1/fb/ffe1fbee16ca1a4c6c6ad64abd692d18--geometry-laser.jpg);
+    
+
 }
