@@ -5,6 +5,7 @@ function addTask() {
     if(inputBox.value === ''){
         alert("You must write something")
     }else{
-      
+        const li = document.createElement("li")
+
     }
 }
