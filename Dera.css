@@ -23,7 +23,7 @@
 .to-do h1{
     font-size: 40px;
     font-weight: 600;
-    color: red;
+    color: rgb(7, 7, 172);
     margin-bottom: 20px;
    align-items: center;
 }
@@ -54,7 +54,7 @@ button{
     padding: 13px 40px;
     border: none;
     outline: none;
-    background-color: rgb(3, 3, 120);
+    background-color: red;
     color: white;
     border-radius: 30px;
     font-size: 16px;
