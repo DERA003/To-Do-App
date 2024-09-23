@@ -5,12 +5,16 @@
 }
 
 .container{
-    background-color: bisque;
+    background-color: brown;
     width: 100%;
+    height: 100vh;
 }
 
 .to-do{
-
+     width: 100%;
+     max-width: 530px;
+     background-color: beige;
+     margin: 50px auto 30px;
 }
 
 .to-do h1{
