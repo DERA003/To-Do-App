@@ -43,5 +43,9 @@
 }
 
 input{
-    
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    flex: 1;
 }
