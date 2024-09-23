@@ -9,7 +9,7 @@ function addTask() {
         li.innerHTML = inputBox.value
         listContainer.appendChild(li)
         const span = document.createElement("span")
-        span.innerHTML = <i class="bi bi-x"></i>
+        span.innerHTML = "X"
         li.appendChild(span)
     }
     inputBox.value = ""
