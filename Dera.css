@@ -8,3 +8,9 @@
     background-color: bisque;
     width: 100%;
 }
+
+.to-do h1{
+    font-size: 20px;
+    font-weight: 600;
+    color: chocolate;
+}
