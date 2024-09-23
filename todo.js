@@ -8,6 +8,8 @@ function addTask() {
         const li = document.createElement("li")
         li.innerHTML = inputBox.value
         listContainer.appendChild(li)
+        const span = document.createElement("span")
+        span.innerHTML = <i class="bi bi-x"></i>
     }
     inputBox.value = ""
 }
