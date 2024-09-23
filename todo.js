@@ -16,6 +16,8 @@ function addTask() {
 }
 
 listContainer.addEventListener("click", e =>{
-    
+    if(e.target.tagName = "LI"){
+        
+    }
 })
 addTask()
