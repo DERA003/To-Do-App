@@ -6,6 +6,9 @@ function addTask() {
         alert("You must write something")
     }else{
         const li = document.createElement("li")
-
+        li.innerHTML = inputBox.value
+        listContainer.appendChild(li)
     }
 }
+
+addTask()
